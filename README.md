@@ -1,2 +1,2 @@
 # Churn-Analytics --- USA
-Prediction of  Customer changing network with respect to behaviors parameter 
+Prediction of Customer Changing Network with respect to behaviors parameter 
